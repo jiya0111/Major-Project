@@ -43,11 +43,19 @@ Package used :
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 mongoose-atlas
+
 password
+
 flash
+
 session
+
 multer
+
 mapbox
+
 cookies
+
 doenv
+
 cloudinary and etc..
