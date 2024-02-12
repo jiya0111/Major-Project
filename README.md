@@ -22,21 +22,32 @@ How to Use
 Technologies used :
 ------------------------------------------------------------------------------------------------------------
 1.HTML
+
 2.CSS
+
 3.JAVASCRIPT
+
 4.NODE.JS
+
 5.EXPRESS
+
 6.MONGODB
+
 7.EJS
+
 8.BOOTSTRAP
+
 9.MVC (MODEL, VIEW, CONTROLLER) AND ETC..
-10.Package used :
-11.mongoose-atlas
-12.password
-13.flash
-14.session
-15.multer
-16.mapbox
-17.cookies
-18.doenv
-19.cloudinary and etc..
+
+Package used :
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+mongoose-atlas
+password
+flash
+session
+multer
+mapbox
+cookies
+doenv
+cloudinary and etc..
